@@ -1,6 +1,6 @@
 {
-    "appSecret": "681f1fe98e3cc1676e2d3138c625f959",
-    "pageAccessToken": "EAAHmK2ig5UkBAASnJ96inHjJNm8wfHUzfPj9WQx3FVhpgsNcYt0Cq96ZCTegOTUebGTaca2GGJ6M93rUVtyxhaZB94uGiP04Chwwi06qmxzF4w6mPYcFPMnc52b9bNvFOpvxOqAE5Hy2ZBaU00IlWzI1RS4ZAb10ru623RDnDwZDZD",
-    "validationToken": "123456",
-    "serverURL": "https://testbottow.herokuapp.com"
+    "appSecret": APP_SECRET,
+    "pageAccessToken": PAGE_ACCESS_TOKEN,
+    "validationToken": VALIDATION_TOKEN,
+    "serverURL": SERVER_URL;
 }

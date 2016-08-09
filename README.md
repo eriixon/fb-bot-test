@@ -1,8 +1,6 @@
 # Messenger Platform Sample -- node.js
 
 This project is an example server for Messenger Platform built in Node.js based on https://github.com/remixz/messenger-bot
-Also you can find working example at https://testbottow.herokuapp.com/
-
 
 ## "Send to Messenger" and "Message Us" Plugin
 
